@@ -1,0 +1,10 @@
+=== LOGIN ATTEMPT CONTROL SYSTEM ===
+2026-09-29 22:30:01 | admin | LOGIN_FAILED attempt=1
+2026-09-29 22:30:01 | admin | LOGIN_FAILED attempt=2
+2026-09-29 22:30:01 | admin | LOGIN_FAILED attempt=3
+2026-09-29 22:30:01 | admin | LOGIN_FAILED attempt=4
+2026-09-29 22:30:01 | admin | LOGIN_FAILED attempt=5
+2026-09-29 22:30:01 | admin | ACCOUNT_LOCKED for 15 minutes
+2026-09-29 22:30:01 | admin | LOGIN_BLOCKED_LOCKED_ACCOUNT (899s remaining)
+
+RESULT: Account lockout enforced successfully after 5 consecutive failed attempts.
